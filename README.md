@@ -1,8 +1,6 @@
 # API Versioning for Laravel
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mbpcoder/api-versioning.svg?style=flat-square)](https://packagist.org/packages/mbpcoder/api-versioning)
-[![Build Status](https://img.shields.io/travis/mbpcoder/api-versioning/master.svg?style=flat-square)](https://travis-ci.org/mbpcoder/api-versioning)
-[![Quality Score](https://img.shields.io/scrutinizer/g/mbpcoder/api-versioning.svg?style=flat-square)](https://scrutinizer-ci.com/g/mbpcoder/api-versioning)
 [![Total Downloads](https://img.shields.io/packagist/dt/mbpcoder/api-versioning.svg?style=flat-square)](https://packagist.org/packages/mbpcoder/api-versioning)
 
 This is a very simple package to support API versioning in Laravel 7. this package provide fallback API capability for Laravel.
