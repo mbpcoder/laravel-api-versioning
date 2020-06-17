@@ -1,11 +1,11 @@
 {
-    "name": "mbpcoder/api-versioning",
+    "name": "mbpcoder/laravel-api-versioning",
     "description": "Enable Api Versioning for Laravel",
     "keywords": [
         "mbpcoder",
         "api-versioning"
     ],
-    "homepage": "https://github.com/mbpcoder/api-versioning",
+    "homepage": "https://github.com/mbpcoder/laravel-api-versioning",
     "license": "MIT",
     "type": "library",
     "authors": [
