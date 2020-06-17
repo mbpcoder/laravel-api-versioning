@@ -1,11 +1,3 @@
-# Api Versioning for Laravel
-
-# Install via composer 
-    composer require thecoder/api-versioning
-    
-# Publish the config    
-    php artisan vendor:publish --provider="MbpCoder\ApiVersioning\ApiVersioningServiceProvider"
-
 # Contributing
 
 Contributions are **welcome** and will be fully **credited**.
