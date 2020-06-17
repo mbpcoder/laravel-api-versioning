@@ -17,7 +17,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^5.3.*",
+        "php": "^5.3",
         "illuminate/support": "^7.0"
     },
     "require-dev": {

@@ -12,7 +12,7 @@ this is a very simple package to support API versioning in Laravel 7.
 You can install the package via composer:
 
 ```bash
-composer require mbpcoder/api-versioning
+composer require mbpcoder/laravel-api-versioning
 ```
 
 ## Usage
